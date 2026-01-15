@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "item": "kmt:k_super_stone"
+    },
+    "B": {
+      "item": "kmt:k_super_block"
+    },
+    "C": {
+      "item": "minecraft:end_crystal"
+    },
+    "D": {
+      "item": "kmt:k_block"
+    }
+  },
+  "result": {
+    "item": "kmt:k_stick",
+    "count": 1
+  }
+}

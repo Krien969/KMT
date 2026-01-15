@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "kmt:k_stone"
+    }
+  },
+  "result": {
+    "item": "kmt:k_block",
+    "count": 1
+  }
+}

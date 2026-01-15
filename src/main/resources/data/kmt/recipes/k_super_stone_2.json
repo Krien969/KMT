@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    "DEF",
+    "GHI"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:diamond_block"
+    },
+    "B": {
+      "item": "minecraft:netherite_block"
+    },
+    "C": {
+      "item": "minecraft:emerald_block"
+    },
+    "D": {
+      "item": "minecraft:lava_bucket"
+    },
+    "E": {
+      "item": "kmt:k_stone"
+    },
+    "F": {
+      "item": "minecraft:lava_bucket"
+    },
+    "G": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "H": {
+      "item": "minecraft:nether_star"
+    },
+    "I": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+  "result": {
+    "item": "kmt:k_super_stone",
+    "count": 1
+  }
+}

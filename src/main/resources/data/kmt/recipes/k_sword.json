@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  A",
+    " A ",
+    "B  "
+  ],
+  "key": {
+    "A": {
+      "item": "kmt:k_super_block"
+    },
+    "B": {
+      "item": "kmt:k_stick"
+    }
+  },
+  "result": {
+    "item": "kmt:k_sword",
+    "count": 1
+  }
+}

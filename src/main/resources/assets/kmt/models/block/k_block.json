@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "kmt:block/k_block",
+    "particle": "kmt:block/k_block"
+  }
+}

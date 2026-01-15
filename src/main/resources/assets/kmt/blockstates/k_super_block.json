@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kmt:block/k_super_block"
+    }
+  }
+}
